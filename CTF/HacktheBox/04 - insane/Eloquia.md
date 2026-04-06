@@ -1,6 +1,6 @@
 # CTF Writeup : Eloquia 
 
-> **Author:** Mr Axidion  
+> **Author:** Axidion  
 > **Date:** 2025-12-18  
 > **Difficulty:** Insane  
 
