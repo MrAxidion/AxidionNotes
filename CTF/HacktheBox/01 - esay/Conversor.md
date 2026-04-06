@@ -135,7 +135,7 @@ ssh fismathack@10.10.11.92
 **User Flag:**
 
 ```
-44888ba3827b5f2cc4768c4f82bab119
+44888ba3827b5f2cc4768c4f82bab***
 ```
 
 ---
@@ -187,7 +187,7 @@ Root privileges successfully obtained.
 **Root Flag:**
 
 ```
-ec10e999bef20f370a162f05a63deaff
+ec10e999bef20f370a162f05a63de***
 ```
 
 ---
