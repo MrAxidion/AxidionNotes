@@ -9,4 +9,4 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 
 [The Hacker Methodology](CTF/TryHackme/Rooms/TheHackerMethodology.md)
 
-[Mustacchio](CTF/TryHackme/Challenges/01 - esay/Mustacchio.md)
+[Mustacchio](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/TryHackme/Challenges/01%20-%20esay/Mustacchio.md)
