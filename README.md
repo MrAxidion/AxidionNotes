@@ -7,4 +7,4 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 
 [Blue](CTF/TryHackme/Rooms/blue.md)
 
-[The Hacker Methodology](AxidionNotes/CTF/TryHackme/Rooms/TheHackerMethodology.md)
+[The Hacker Methodology](CTF/TryHackme/Rooms/TheHackerMethodology.md)
