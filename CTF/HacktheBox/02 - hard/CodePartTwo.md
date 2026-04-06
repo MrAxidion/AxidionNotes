@@ -135,7 +135,7 @@ ssh marco@<TARGET_IP>
 **User Flag:**
 
 ```
-a6640f99a6880ee999cd984c5f2e3ab1
+a6640f99a6880ee999cd984c5f2e****
 ```
 
 ---
@@ -201,7 +201,7 @@ sudo /usr/local/bin/npbackup-cli -c /home/marco/npbackup.conf -b
 **Root Flag:**
 
 ```
-f1e0a8b7b38b9a7f2fcceae29e4531bf
+f1e0a8b7b38b9a7f2fcceae29e4*****
 ```
 
 ---
