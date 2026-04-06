@@ -11,4 +11,6 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 
 [Mustacchio](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/TryHackme/Challenges/01%20-%20esay/Mustacchio.md)
 
+###  HackTheBox
+
 [CodePartTwo](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/02%20-%20hard/CodePartTwo.md)
