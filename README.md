@@ -13,10 +13,12 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 
 ###  HackTheBox
 
-[CodePartTwo](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/02%20-%20hard/CodePartTwo.md)
+[CodePartTwo - (ESAY)](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/02%20-%20hard/CodePartTwo.md)
 
-[Conversor](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/Conversor.md)
+[Conversor - (ESAY)](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/Conversor.md)
 
-[Expressway](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/Expressway.md)
+[Expressway - (ESAY)](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/Expressway.md)
 
-[Magical Palindrome](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/MagicalPalindrome.md)
+[Magical Palindrome - (ESAY)](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/01%20-%20esay/MagicalPalindrome.md)
+
+[Eloquia - (INSANE) ](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/HacktheBox/04%20-%20insane/Eloquia.md)
