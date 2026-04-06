@@ -8,3 +8,5 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 [Blue](CTF/TryHackme/Rooms/blue.md)
 
 [The Hacker Methodology](CTF/TryHackme/Rooms/TheHackerMethodology.md)
+
+[Mustacchio](CTF/TryHackme/Challenges/01 - esay/Mustacchio.md)
