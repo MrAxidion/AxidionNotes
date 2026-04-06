@@ -5,11 +5,11 @@ A collection of my personal cybersecurity notes and CTF writeups, focused on pra
 
 ### TryHackMe 
 
-[Blue](CTF/TryHackme/Rooms/blue.md)
+[Blue - (ESAY)](CTF/TryHackme/Rooms/blue.md)
 
-[The Hacker Methodology](CTF/TryHackme/Rooms/TheHackerMethodology.md)
+[The Hacker Methodology - (ESAY)](CTF/TryHackme/Rooms/TheHackerMethodology.md)
 
-[Mustacchio](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/TryHackme/Challenges/01%20-%20esay/Mustacchio.md)
+[Mustacchio  - (ESAY)](https://github.com/MrAxidion/AxidionNotes/blob/main/CTF/TryHackme/Challenges/01%20-%20esay/Mustacchio.md)
 
 ###  HackTheBox
 
